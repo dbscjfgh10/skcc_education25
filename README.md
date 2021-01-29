@@ -1,1 +1,1 @@
-"# skcc_education25" 
+# azure-vmss
